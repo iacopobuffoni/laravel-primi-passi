@@ -7,7 +7,7 @@
     <title> Laravel Primi Passi </title>
 </head>
 <body>
-    <h1> Hello World Home ! </h1>
+    <h1> Hello World Portfolio ! </h1>
     <header>
         <a href="http://127.0.0.1:8000/home"> Home </a>
         <a href="http://127.0.0.1:8000/portfolio"> Portfolio </a>
